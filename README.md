@@ -20,7 +20,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
-
+# This is a test header
 ## Step 1: Add headers
 
 _Welcome to "Communicate using Markdown"! :wave:_
@@ -69,7 +69,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 <!--
   <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
+ Is there where I am supposed to write my commit message? It is not entirely clear form the tutorial. The tutorial is also vague about what constitutes 'meaningful'
 -->
 
 ---
